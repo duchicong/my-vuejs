@@ -40,5 +40,5 @@ npm run lint
 
 ```sh
 # watching combine tailwind to css
-npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+npx tailwindcss -i ./src/assets/input.css -o ./src/assets/output.css --watch
 ```
